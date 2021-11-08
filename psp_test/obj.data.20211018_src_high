@@ -1,0 +1,5 @@
+classes= 6
+train  = /home/xunyi/Antwork/Datasets/target_cxq/layout/20211025_train.txt
+valid  = /home/xunyi/Antwork/Datasets/target_cxq/layout/20211025_valid.txt
+names  = target_cxq/obj.names
+backup = backup/target_cxq/20211018_src_high

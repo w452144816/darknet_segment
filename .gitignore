@@ -1,0 +1,9 @@
+backup/
+newrepo/
+obj/
+results/
+.vscode/
+scripts/
+darknet
+libdarknet.so
+uselib
